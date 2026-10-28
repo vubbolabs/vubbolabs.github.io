@@ -1,2 +1,3 @@
-# vubbolabs.github.io
-Vubbo Labs website - Ring Smash! game, privacy polic and terms
+# Ring Smash! — Vubbo Labs
+
+Game website (GitHub Pages): about, follow us, privacy policy, terms, app-ads.txt.
